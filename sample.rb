@@ -3,6 +3,7 @@ def hello
   P "wwwwwwwwwwwwwwwwwwwwwwwwwwww"
   p "git_traning2"
   p "wwwwwwwwwwww"
+  p "だんだん意味がわかってきたぞ"
 end
 
 hello
